@@ -114,7 +114,7 @@
 <main>
     <div class="login-container">
         <div style="display: inline-flex;">
-            <img src="/login-user.png" style="width: 50px; height: 50px; margin-top: 36px; padding-right:20px">
+            <img src="./assets/images/login-user.png" alt="Login" style="width: 50px; height: 50px; margin-top: 36px; padding-right:20px">
             <h1 style="color: #616981;"> Login</h1>
         </div>
         {#if regMsg!=''}

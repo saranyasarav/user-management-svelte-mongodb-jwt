@@ -108,7 +108,7 @@
 <main>
     <div class="login-container">
         <div style="display: inline-flex;">
-            <img src="/register-user.png" style="width: 50px; height: 50px; margin-top: 36px; padding-right:20px">
+            <img src="./assets/images/register-user.png" alt="Register" style="width: 50px; height: 50px; margin-top: 36px; padding-right:20px">
             <h1 style="color: #616981;"> Register</h1>
         </div>        
         {#if errorMessage!=''}
